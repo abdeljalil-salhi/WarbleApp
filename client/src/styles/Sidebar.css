@@ -1,0 +1,28 @@
+.sidebar {
+  border-right: 1px solid var(--warble-hover);
+  flex: 0.3;
+  min-width: 200px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sidebar__icon {
+  color: var(--warble-primary);
+  font-size: 30px !important;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.sidebar__warble {
+  margin-top: 20px !important;
+  background-color: var(--warble-primary) !important;
+  border: none !important;
+  color: var(--warble-color) !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  text-transform: inherit !important;
+  font-family: var(--warble-fonts) !important;
+  border-radius: 30px !important;
+  height: 40px !important;
+}

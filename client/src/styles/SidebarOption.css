@@ -1,0 +1,26 @@
+.sidebar__option {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.sidebar__option:hover {
+  background-color: var(--warble-hover);
+  transition: all 200ms ease-out;
+}
+
+.sidebar__option > .MuiSvgIcon-root {
+  padding: 20px 15px;
+}
+
+.sidebar__option > h2 {
+  font-weight: 300;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.sidebar__option__active > * {
+  color: var(--warble-primary);
+  font-weight: 700 !important;
+}

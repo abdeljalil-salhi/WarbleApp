@@ -1,0 +1,17 @@
+body {
+  --warble-color: #e4e6eb;
+  --warble-primary: #fa6e16;
+  --warble-background: #18191a;
+  --warble-hover: #242526;
+  --warble-border: rgb(80, 80, 80);
+  --warble-fonts: "Georama", sans-serif;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+}

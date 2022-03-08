@@ -1,0 +1,52 @@
+.warblebox {
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--warble-hover);
+  padding-right: 10px;
+}
+
+.warblebox > form {
+  display: flex;
+  flex-direction: column;
+}
+
+.warblebox__input {
+  padding: 20px;
+  display: flex;
+}
+
+.warblebox__input > input {
+  flex: 1;
+  margin-left: 20px;
+  font-size: 20px;
+  border: none;
+  background-color: var(--warble-background);
+  outline-width: 0;
+  color: var(--warble-color);
+}
+
+.warblebox__image {
+  border: none;
+  background-color: var(--warble-background);
+  outline-width: 0;
+  color: var(--warble-color);
+  margin-left: 20px;
+}
+
+.warblebox__button {
+  margin-top: 20px !important;
+  background-color: var(--warble-primary) !important;
+  border: none !important;
+  color: var(--warble-color) !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  text-transform: inherit !important;
+  font-family: var(--warble-fonts) !important;
+  border-radius: 30px !important;
+  height: 40px !important;
+  padding: 5px 10px 5px 15px !important;
+  margin-left: auto !important;
+}
+
+.warblebox__button > .MuiSvgIcon-root {
+  margin-left: 7px;
+}
