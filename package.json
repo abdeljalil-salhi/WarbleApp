@@ -1,0 +1,8 @@
+{
+  "name": "@warbleapp/client",
+  "version": "0.1.0",
+  "author": "Abdeljalil Salhi",
+  "description": "A free social networking microblogging service that allows registered members to broadcast short posts. NSFW allowed.",
+  "license": "MIT",
+  "private": true
+}
