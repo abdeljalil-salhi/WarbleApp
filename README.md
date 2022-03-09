@@ -10,4 +10,11 @@
 
 ### NSFW allowed.
 
+---
+
+<details>
+    <summary>NSFW Warning</summary>
+
 ![image](https://user-images.githubusercontent.com/65598953/157531344-b9f7dc80-5e80-420b-b649-dc8a775e1ece.png)
+
+</details>
